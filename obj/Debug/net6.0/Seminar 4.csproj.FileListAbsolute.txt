@@ -1,0 +1,15 @@
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.csproj.AssemblyReference.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.AssemblyInfoInputs.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.AssemblyInfo.cs
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.csproj.CoreCompileInputs.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\bin\Debug\net6.0\Seminar 4.exe
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\bin\Debug\net6.0\Seminar 4.deps.json
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\bin\Debug\net6.0\Seminar 4.runtimeconfig.json
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\bin\Debug\net6.0\Seminar 4.dll
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\bin\Debug\net6.0\Seminar 4.pdb
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.dll
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\refint\Seminar 4.dll
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.pdb
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\Seminar 4.genruntimeconfig.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\4\Seminar 4\obj\Debug\net6.0\ref\Seminar 4.dll
