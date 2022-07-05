@@ -29,15 +29,21 @@ Console.Write("Sum of digits is " + sumOfDigits(number1));
 6, 1, 33 -> [6, 1, 33]
 */
 
-
-int y = 5;
-int[] array = new int[y];
-Random rand = new Random();
-
-for (int i = 0; i < y; i++)
+int Elements(int size, int min, int max)
 {
-     array[i] = rand.Next(1, 21);
-    Console.Write(array[i] + " ");
-
+    int array = new int();
+    for (int i = 0; i < size; i++)
+    {
+        array = new Random().Next(min, max+1);
+        Console.Write(array + " ");
+    }
+   return array;
 }
+Console.Write("Input size: ");
+int size = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input min number: ");
+int min = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input max number: ");
+int max = Convert.ToInt32(Console.ReadLine());
 
+Elements(size, min, max);
