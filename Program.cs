@@ -29,16 +29,26 @@ Console.Write("Sum of digits is " + sumOfDigits(number1));
 6, 1, 33 -> [6, 1, 33]
 */
 
-int Elements(int size, int min, int max)
+/*РЕШЕНИЕ1. ПОЛЬЗОВАТЕЛЬ ВЫБИРАЕТ РАЗМЕР МАССИВА, МИН И МАКС ЭЛЕМЕНТЫ*/
+/*
+int[] Array(int size, int min, int max)
 {
-    int array = new int();
+    int[] array = new int[size];
     for (int i = 0; i < size; i++)
     {
-        array = new Random().Next(min, max+1);
-        Console.Write(array + " ");
+        array[i] = new Random().Next(min,max+1);  
     }
    return array;
 }
+
+void ShowArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+        Console.Write(array[i] + " ");
+
+    Console.WriteLine();    
+}
+
 Console.Write("Input size: ");
 int size = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input min number: ");
@@ -46,4 +56,36 @@ int min = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input max number: ");
 int max = Convert.ToInt32(Console.ReadLine());
 
-Elements(size, min, max);
+int[] MyArray = Array(size, min, max);
+ShowArray(MyArray);
+*/
+
+
+/* РЕШЕНИЕ2. ПРОГРАММА ВЫДАЕТ МАССИВ ИЗ 8МИ ЭЛЕМЕНТОВ ОТ 0 ДО 100 В ДВЕ СТРОКИ: 5 И 3 */
+
+/*
+int[] Array(int size, int min, int max)
+{
+    int[] array = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        array[i] = new Random().Next(min,max+1);  
+    }
+   return array;
+}
+
+void ShowArray(int[] array)
+{
+    for (int i = 0; i < 5; i++)
+        Console.Write(array[i] + " ");
+        Console.WriteLine();  
+
+    for (int i = 5; i < array.Length; i++)
+        Console.Write(array[i] + " ");
+        Console.WriteLine(); 
+}
+
+int[] MyArray = Array(8, 0, 100);
+ShowArray(MyArray);
+
+*/
